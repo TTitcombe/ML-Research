@@ -15,7 +15,7 @@ Topics:
    
    -<a href="https://arxiv.org/abs/1710.03641">OpenAI meta-learning wrestling</a>
    
-   -<a href="https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/">SCIILE<\a>
+   -<a href="https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/">SCIILE</a>
   
   2)GANs
 
