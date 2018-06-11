@@ -2,7 +2,6 @@
 
 * Achieved first and second in ImageNet challenge 2014 in localisation and classification tracks, respectively
 * state-of-the-art results in several datasets (generalises)
-l - eleanor
 
 ### Intro
 * best-performing submissions to ILSVRC-2013 used smaller receptive window size and smaller stride of the first convolutional layer
@@ -72,4 +71,3 @@ Number of parameters are smaller than shallower nets with greater convolution si
 * Intermediate layers initialised randomly
 * Random inits were normal, mean 0, variance 10e(-2)
 * Biases initialised to 0
-*

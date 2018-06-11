@@ -23,6 +23,10 @@ Repository to store links to key/interesting papers in a variety of ML topics.
 - [Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf)
     - [Tensorflow Implementation](https://github.com/ildoonet/tf-pose-estimation)
 
+#### Action Recognition
+- [Hierarchical RNN for Skeleton Based Action Recognition](https://ieeexplore.ieee.org/document/7298714/)
+    - [Notes](PaperReviews/skeleton_lstm.md)
+
 #### CNNs
 - [VGG](https://arxiv.org/pdf/1409.1556.pdf)
     - [Review](PaperReviews/vggMD.md)
