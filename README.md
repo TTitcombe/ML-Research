@@ -29,4 +29,4 @@ Repository to store links to key/interesting papers in a variety of ML topics.
 
 #### CNNs
 - [VGG](https://arxiv.org/pdf/1409.1556.pdf)
-    - [Review](PaperReviews/vggMD.md)
+    - [Notes](PaperReviews/vggMD.md)
