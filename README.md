@@ -13,7 +13,8 @@ Repository to store links to key/interesting papers in a variety of ML topics.
 #### GANs
 - [GAN](https://arxiv.org/pdf/1406.2661.pdf)
     - [Numpy Implementation](https://github.com/TTitcombe/Python-Machine-Learning-Models/tree/master/GAN)
-    - [Tensorflow Implementation](https://github.com/TTitcombe/GANmodels/blob/master/simple_gan.py)
+    - [Tensorflow Implementation](https://github.com/TTitcombe/GANmodels)
+- [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
 - [DCGAN](https://arxiv.org/pdf/1511.06434.pdf)
     - [Notes](PaperReviews/dcganMD.md)
 - [CycleGAN](https://arxiv.org/pdf/1703.10593.pdf)
