@@ -31,3 +31,7 @@ Repository to store links to key/interesting papers in a variety of ML topics.
 #### CNNs
 - [VGG](https://arxiv.org/pdf/1409.1556.pdf)
     - [Notes](PaperReviews/vggMD.md)
+    
+#### Misc
+- [Neural Arithmetic Logic Units](https://arxiv.org/pdf/1808.00508.pdf)
+    - [Blog post](https://medium.com/@t.j.titcombe/understanding-neural-arithmetic-logic-units-5ca9d0041473)
