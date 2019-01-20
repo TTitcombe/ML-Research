@@ -35,3 +35,5 @@ Repository to store links to key/interesting papers in a variety of ML topics.
 #### Misc
 - [Neural Arithmetic Logic Units](https://arxiv.org/pdf/1808.00508.pdf)
     - [Blog post](https://medium.com/@t.j.titcombe/understanding-neural-arithmetic-logic-units-5ca9d0041473)
+- [Training with Synethetic Data: Domain Randomization] (https://arxiv.org/pdf/1804.06516.pdf)
+    - [Notes](PaperReviews/domain_randomization.md)
