@@ -18,7 +18,7 @@
 * E.g. for the sentence "the dog has a toy", try to predict "has" from {"the", "dog", "a", "toy"}
 * The word vectors of the input words are averaged -> Word order does not matter -> "bag of words"
 * Authors obtain best performance with four historical and four future words
-* Training complexity Q = N x D + D * log2(V), where N is number of input words, D is word vector dimensions, and V is size of word corpus. (We take the log2 of V as the output word is (Huffman binary tree encoded)[http://www.trevorsimonton.com/blog/2016/12/15/huffman-tree-in-word2vec.html])
+* Training complexity Q = N x D + D * log2(V), where N is number of input words, D is word vector dimensions, and V is size of word corpus. (We take the log2 of V as the output word is [Huffman binary tree encoded](http://www.trevorsimonton.com/blog/2016/12/15/huffman-tree-in-word2vec.html))
 
 **Skip-gram**
 * Given a word in a sentence, try to predict another word in the sentence
