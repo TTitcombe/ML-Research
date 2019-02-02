@@ -1,7 +1,7 @@
 # Efficient Estimation of Word Representations in Vector Space
 
 * A new method to project words into n-dimensional vector
-* Words in this space can be used for mapping semantic relationships (Lison -> Portugal as Paris -> France) and syntactic relationships (walk -> walked as run -> ran)
+* Words in this space can be used for mapping semantic relationships (Lisbon -> Portugal as Paris -> France) and syntactic relationships (walk -> walked as run -> ran)
 
 ### Intro
 * Before word2vec, models commonly treat words as atomic units. Many NLP tasks are limit by size of quality data, where these simple models fail
